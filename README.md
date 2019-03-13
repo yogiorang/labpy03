@@ -25,6 +25,21 @@ latihan2.py
 
 ![Screenshot (13)](https://user-images.githubusercontent.com/47880622/54250173-4f927800-4575-11e9-8376-d8c6fc2333ea.png)
 
+perulangan while
 
+perulangan while dibuat uncounted loop (peluang yng tak terhitung), yaitu perulangan yang dilakukan berdasarkan
+kondisi tertentu selama nili kondisi beernilai TRUE
 
+while kondisi:
 
+perintah yang diulang
+
+pernyataan break
+
+pernyatan break digunakan menghetikan proses perulangan pada kondisi tertentu
+
+if a == 0:
+
+      break
+      
+      Hasil Output
