@@ -21,5 +21,7 @@ Hasil Output
 
 ![Screenshot (12)](https://user-images.githubusercontent.com/47880622/54249980-9e8bdd80-4574-11e9-9c40-3ff797a78171.png)
 
+latihan2.py
+
 
 
