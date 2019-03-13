@@ -23,5 +23,8 @@ Hasil Output
 
 latihan2.py
 
+![Screenshot (13)](https://user-images.githubusercontent.com/47880622/54250173-4f927800-4575-11e9-8376-d8c6fc2333ea.png)
+
+
 
 
